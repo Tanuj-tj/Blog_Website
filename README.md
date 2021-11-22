@@ -15,3 +15,12 @@
 
 **login.php**
 ![localhost_blog1_login php](https://user-images.githubusercontent.com/63875409/142776684-80bfad28-9aae-4f9f-a591-d13d72c09d7e.png)
+
+**addpost.php**
+![localhost_blog_addarticle php](https://user-images.githubusercontent.com/63875409/142798081-1b17daff-8fcc-4c5d-90e9-a213ee357f70.png)
+
+----
+### Database Tables
+* Users
+* Post
+* Contact
