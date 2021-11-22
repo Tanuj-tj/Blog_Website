@@ -1,4 +1,5 @@
 # Blog_website
+Techie Comet is a Blogging Platform where you can find Blogs related to various topics such as Programming, Machine Learning, Data Science, and many more.
 ----
 
 **index.php**
