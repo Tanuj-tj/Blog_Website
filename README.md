@@ -1,7 +1,8 @@
 # Blog_website
 *Techie Comet is a Blogging Platform where you can find Blogs related to various topics such as Programming, Machine Learning, Data Science, and many more.*
 ----
-
+### Live Link : https://blogtechiecomet.000webhostapp.com/
+----
 **index.php**
 ![localhost_blog1_index php](https://user-images.githubusercontent.com/63875409/142776527-3f418e66-02ba-4567-b079-534317325d2a.png)
 
